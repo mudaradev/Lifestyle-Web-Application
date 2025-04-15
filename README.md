@@ -28,7 +28,8 @@ Include screenshots of your project here to give a visual preview. For example:
   ![Navigation Bar](https://github.com/user-attachments/assets/bc4900a7-f441-439e-bf60-119d5ee50f7d)
 )
 - **Carousel**:
-  !Carousel
+  ![Carousel](https://github.com/user-attachments/assets/4bf13c60-6db1-42aa-85fb-be1dc2246634)
+)
 - **Product Cards**:
   ![Product Cards](path-to-cards-screenshot.png)
 
