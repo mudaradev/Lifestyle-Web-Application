@@ -1,8 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel';
-
 import './side.css';
 
-function UncontrolledExample() {
+function Slide() {
   return (
     <Carousel>
 
@@ -15,22 +14,22 @@ function UncontrolledExample() {
 
       <Carousel.Item className='carousel-item2'>
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3>Celebrate New Beginnings</h3>
+          <p>Enjoy Free Shipping on All Order</p>
         </Carousel.Caption>
       </Carousel.Item>
 
       <Carousel.Item className='carousel-item3'>
         <Carousel.Caption>
-          <h3>Third slide label</h3>
+          <h3>Seasonal Vibes Only</h3>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+          Buy 1 Get 1 Free on Selected Items
           </p>
         </Carousel.Caption>
       </Carousel.Item>
-      
+
     </Carousel>
   );
 }
 
-export default UncontrolledExample;
+export default Slide;

@@ -5,9 +5,10 @@ import './navbar.css';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
 
-export default function ColorSchemesExample() {
+
+export default function Navi() {
   return (
-    <>
+    <div className="nav-container">
       <Navbar bg="dark" data-bs-theme="dark" className='nav'>
         <Container>
           <Navbar.Brand className="brand" href="#home">Easy<br/>Lifestyle</Navbar.Brand>
@@ -26,6 +27,6 @@ export default function ColorSchemesExample() {
         </Container>
       </Navbar>
       <br />
-    </>
+    </div>
   );
 }

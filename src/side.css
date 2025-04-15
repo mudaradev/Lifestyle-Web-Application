@@ -1,27 +1,24 @@
 .carousel-item1{
-  height: 600px;
-  min-height: 350px;
-  background-image: url('C:\Users\User\Desktop\event_handle\src\sofa1.jpg');
+    height: 600px;
+    min-height: 350px;
+    background-image: url('C:\Users\User\Desktop\event_handle\src\sofa1.jpg');
     background-size: cover;
     margin-top: 0px;
     padding-top: 0px;
-    font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
-    font-size: 20px;
-    color: rgb(5, 5, 5);
-}
-.carousel-item1.h3{
-    color: black;
+    font-family: 'Times New Roman', Times, serif;
 }
 .carousel-item2{
   height: 600px;
   background-image: url('C:\Users\User\Desktop\event_handle\src\sofa4.jpg');
   background-size: cover;
+  font-family: 'Times New Roman', Times, serif;
 }
 .carousel-item3{
   height: 600px;
   background-image: url('C:\Users\User\Desktop\event_handle\src\sofa3.jpg');
   background-size: cover;
+  font-family: 'Times New Roman', Times, serif;
 }
 .carousel{
     margin-top: 0px;

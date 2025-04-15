@@ -1,0 +1,17 @@
+.shopping{
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.shopp{
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #1c5a2a7e;
+    border-radius: 8px;
+    box-shadow: 5px 4px 8px rgba(0, 0, 0, 0.5);
+    margin-bottom: 10px;
+}
+.shopp:hover{
+    background-color: #05110879;
+    cursor: pointer;
+}

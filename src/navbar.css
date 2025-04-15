@@ -1,17 +1,16 @@
 .brand{
     font-size: 15px;
     font-weight: bold;
-    color: #795123d0;
+    color: #346b46c2;
     padding-left: 10px;
     margin-left: 5px;
 }
 .me-auto{
     margin-left: auto;
-    color: aqua;
     font-size: 15px;
 }
 .navbar .nav-link{
-    color: #c2b3b3;
+    color: #ffffffb9;
     font-size: 15px;
     padding-left: 10px;
     margin-left: 5px;
@@ -22,15 +21,13 @@
     align-items: center;
     padding: 10px 20px;
     padding-left: 5px;
-    color: rgb(36, 112, 61);
+}
+.nav-container{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 
 }
-.body{
-    background-color: #1a1a1a;
-    color: white;
-    padding: 20px;
-    font-size: 18px;
-    line-height: 1.6;
-    margin-top: 20px;
-    margin-bottom: 20px;
+.nav-link:hover{
+    color: #346b46c2;
+    text-decoration: none;
 }

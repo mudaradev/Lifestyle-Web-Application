@@ -1,13 +1,15 @@
 
 import './App.css';
-import ColorSchemesExample from './navbar.jsx';
-import UncontrolledExample from './side.jsx';
+import Navi from './navbar.jsx';
+import Slide from './side.jsx';
+import Butt from './Shop.jsx';
 
 function App() {
   return (
     <div className="App">
-      <ColorSchemesExample/>
-      <UncontrolledExample/>
+      <Navi/>
+      <Slide/>
+      <Butt/>
     </div>
   );
 }
