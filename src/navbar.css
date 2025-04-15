@@ -1,0 +1,36 @@
+.brand{
+    font-size: 15px;
+    font-weight: bold;
+    color: #795123d0;
+    padding-left: 10px;
+    margin-left: 5px;
+}
+.me-auto{
+    margin-left: auto;
+    color: aqua;
+    font-size: 15px;
+}
+.navbar .nav-link{
+    color: #c2b3b3;
+    font-size: 15px;
+    padding-left: 10px;
+    margin-left: 5px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    padding-left: 5px;
+    color: rgb(36, 112, 61);
+
+}
+.body{
+    background-color: #1a1a1a;
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
