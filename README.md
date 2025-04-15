@@ -30,8 +30,12 @@ Include screenshots of your project here to give a visual preview. For example:
 - **Carousel**:
   ![Carousel](https://github.com/user-attachments/assets/4bf13c60-6db1-42aa-85fb-be1dc2246634)
 )
+-**Entrance To Shopping**:
+  ![shopping](https://github.com/user-attachments/assets/d493019b-f1a6-4a73-a8af-c002c1d7cec4)
+)
 - **Product Cards**:
-  ![Product Cards](path-to-cards-screenshot.png)
+  ![Product Cards](https://github.com/user-attachments/assets/f2ac6cc9-a446-4c5e-895b-d65c48ade06f)
+)
 
 #### **Future Plans**
 1. **Add Functionality**:
